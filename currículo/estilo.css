@@ -1,0 +1,48 @@
+.header{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 30px;
+    color: black;
+}
+article{
+    border: #000000;
+    padding: 26px;
+    background-color: rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    margin-top: -15px;
+    margin-left: -10px;
+}
+.dados{
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    margin-top: -55px;
+    margin-left: -30px;
+}
+.nume{
+    background-color: black;
+    text-align: center;
+    color: #ffffff;
+    padding: 20px;
+    margin-top: -50px;
+    margin-left: -10px;
+}
+img{
+    max-width: 100px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 630px;
+}
+div{
+    color: rgb(0, 0, 0);
+    margin-top: -10px;
+    background-color: rgb(0, 0, 0);
+}
